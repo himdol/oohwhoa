@@ -17,6 +17,8 @@ function App() {
         >
           Learn React
         </a>
+        Hello I'm himdol
+        JIRA 연결 테스트
       </header>
     </div>
   );
