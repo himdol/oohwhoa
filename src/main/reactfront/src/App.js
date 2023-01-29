@@ -20,7 +20,7 @@ function App() {
         Hello I'm himdol
         JIRA 연결 테스트
       </header>
-    </div>
+   </div>
   );
 }
 
