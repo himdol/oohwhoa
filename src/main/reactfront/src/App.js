@@ -18,7 +18,7 @@ function App() {
           Learn React
         </a>
         Hello I'm himdol
-
+        깃 연동
       </header>
    </div>
   );
