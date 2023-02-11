@@ -17,10 +17,7 @@ function App() {
         >
           Learn React
         </a>
-        Hello I'm himdol
-        깃 연동
-        이제는 되겠지???
-
+        JIRA TEST BO 페이지 만들기
       </header>
    </div>
   );
