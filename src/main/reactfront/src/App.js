@@ -22,6 +22,7 @@ function App() {
         JIRA 왜 안됨???
         제발 됐음 좋겠다.
         다시 시도
+        머야 이거 git 꼬엿다
       </header>
    </div>
   );
