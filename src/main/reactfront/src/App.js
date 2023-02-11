@@ -18,9 +18,7 @@ function App() {
           Learn React
         </a>
         Hello I'm himdol
-        Git origin main move to head
-        깃 해결완료인가??
-        다시 시도
+
       </header>
    </div>
   );
