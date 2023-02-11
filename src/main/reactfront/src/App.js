@@ -20,6 +20,7 @@ function App() {
         Hello I'm himdol
         JIRA 연결 테스트
         JIRA 왜 안됨???
+        제발 됐음 좋겠다.
       </header>
     </div>
   );
