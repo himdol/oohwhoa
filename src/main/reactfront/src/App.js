@@ -21,6 +21,7 @@ function App() {
         JIRA 연결 테스트
         JIRA 왜 안됨???
         제발 됐음 좋겠다.
+        다시 시도
       </header>
     </div>
   );
