@@ -17,8 +17,7 @@ function App() {
         >
           Learn React
         </a>
-        JIRA TEST BO 페이지 만들기
-        이거 진짜 안되나요?
+        git project 로 변경
       </header>
    </div>
   );
