@@ -16,9 +16,9 @@ public class IndexRestController {
     this.indexService = indexService;
   }
 
-  @GetMapping("/all-data")
-  public void getAllData() throws IOException {
-    indexService.getAllData();
-  }
+//  @GetMapping("/all-data")
+//  public void getAllData() throws IOException {
+//    indexService.getAllData();
+//  }
 
 }

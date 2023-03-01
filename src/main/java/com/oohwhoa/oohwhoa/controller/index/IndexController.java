@@ -6,8 +6,8 @@ import org.springframework.stereotype.Controller;
 @Controller
 public class IndexController {
 
-  public String showIndexPage() {
-    return "/";
-  }
+//  public String showIndexPage() {
+//    return "/";
+//  }
 
 }
