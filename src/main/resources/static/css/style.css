@@ -81,7 +81,7 @@ section {
 
 .main {
   height: 360px;
-  background-image: url(/frontend/img/test3_img.jpeg);
+  background-image: url(../img/test3_img.jpeg);
   background-size: cover;
   background-position: center 40%;
   background-repeat: no-repeat;
